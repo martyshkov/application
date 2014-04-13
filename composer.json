@@ -2,7 +2,7 @@
 	"name": "martyshkov/dummy",
 	"description": "Dummy package for ZF2",
 	"license": "GPL-3.0",
-    "version":"0.1.3",
+    "version":"master",
 	"require": {
 		"php": ">=5.3.3",
 		"zendframework/zendframework": "2.3.*",
